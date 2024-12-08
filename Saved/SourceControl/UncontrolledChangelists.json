@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE_project/EchoOfTheLamb/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE_project/EchoOfTheLamb/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+			]
+		}
+	]
+}
