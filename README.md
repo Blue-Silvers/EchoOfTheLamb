@@ -59,7 +59,7 @@ Menu de recherche de session :
 Lobby : ("Blue" est le serveur et "Hey" le client)
 ![image](https://github.com/user-attachments/assets/2261449c-7ab3-4a78-95d7-4da1c02fc220)
 
-Interface lié au autre joeurs :
+Interface lié aux autres joeurs :
 ![image](https://github.com/user-attachments/assets/07d648b8-8b23-4b62-8fc9-6e0f5e0ebb45)
 
 Salle de Bonus :
@@ -68,4 +68,12 @@ Salle de Bonus :
 Salle de point : (si le point n'y est pas c'est qu'il est actuellemnt dans l'une des 3 autres salles de point)
 ![image](https://github.com/user-attachments/assets/1929c16c-62da-436f-a765-40df0db92091) ![image](https://github.com/user-attachments/assets/f133e941-77e4-48dc-8062-76b21bf7fbe4)
 
+Tourniquet :
+
+![2025-03-21 16-47-22](https://github.com/user-attachments/assets/874f2ffb-d10a-4291-a459-6143a7c8b42c)
+
+
+Wall Run/ Wall jump (par le client) :
+
+![2025-03-21 16-54-33](https://github.com/user-attachments/assets/2892655f-4baf-4544-9669-b0e6590b8d4d)
 
