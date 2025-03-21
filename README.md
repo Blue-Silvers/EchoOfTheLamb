@@ -1,6 +1,6 @@
 Demande pour le multijeur :
 
-        Système de create (nombre maximum de joeur, du nombre de point à atteindre et de la Seed), find et join session. 
+        Système de create (nombre maximum de joueurs, nombre de points à atteindre et Seed), find et join session. 
         La première map est en solo puis les joueurs se rejoignent sur une map de d'entranement depuis laquel on peut :
         - Changer de pseudo
         - Tester les méchaniques 
@@ -12,7 +12,7 @@ Demande pour le multijeur :
         - Projectile tirrable quand on possède le bonus pistolet (clique gauche)
         
         2) Des objets qui se déplacent ou rotate :
-        - Tourniquet (dans les salle généré procéduralement et dans le lobby)
+        - Tourniquet tournant en continue (dans les salle généré procéduralement et dans le lobby)
         
         3) Un système d'interaction entre le joueur et son environnement qui s'affiche sur l'UI des autres joueurs :
         - Augmentation de score qui s'affiche chez tout le monde
