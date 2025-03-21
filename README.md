@@ -1,6 +1,6 @@
 Demande pour le multijeur :
 
-        Système de create, find et join session. 
+        Système de create (nombre maximum de joeur, du nombre de point à atteindre et de la Seed), find et join session. 
         La première map est en solo puis les joueurs se rejoignent sur une map de d'entranement depuis laquel on peut :
         - Changer de pseudo
         - Tester les méchaniques 
