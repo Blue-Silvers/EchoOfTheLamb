@@ -65,7 +65,7 @@ Interface lié aux autres joeurs :
 Salle de Bonus :
 ![image](https://github.com/user-attachments/assets/ee494ad3-3a38-4129-b452-0074887ac52b)
 
-Salle de point : (si le point n'y est pas c'est qu'il est actuellemnt dans l'une des 3 autres salles de point)
+Salle de point : (si le point n'y est pas c'est qu'il est actuellement dans l'une des 3 autres salles de point)
 ![image](https://github.com/user-attachments/assets/1929c16c-62da-436f-a765-40df0db92091) ![image](https://github.com/user-attachments/assets/f133e941-77e4-48dc-8062-76b21bf7fbe4)
 
 Tourniquet :
