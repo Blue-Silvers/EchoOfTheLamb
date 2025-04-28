@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\fury8\\OneDrive\\Documents\\Unreal Projects\\EchoOfTheLamb\\Intermediate\\Source\\EchoOfTheLamb.Build.cs",
+		"C:\\Users\\fury8\\OneDrive\\Documents\\Unreal Projects\\EchoOfTheLamb\\Intermediate\\Source\\EchoOfTheLamb.Target.cs",
+		"C:\\Users\\fury8\\OneDrive\\Documents\\Unreal Projects\\EchoOfTheLamb\\Intermediate\\Source\\EchoOfTheLambClient.Target.cs",
+		"C:\\Users\\fury8\\OneDrive\\Documents\\Unreal Projects\\EchoOfTheLamb\\Intermediate\\Source\\EchoOfTheLambEditor.Target.cs",
+		"C:\\Users\\fury8\\OneDrive\\Documents\\Unreal Projects\\EchoOfTheLamb\\Intermediate\\Source\\EchoOfTheLambServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
